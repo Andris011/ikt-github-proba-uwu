@@ -1,4 +1,4 @@
-# Hello 12D! - pyton
+# Hello 12D! - pyhton
 
 ## alcim 1
 
