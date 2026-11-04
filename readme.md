@@ -1,4 +1,4 @@
-# Hello 12D!
+# Hello 12D! - pyhton
 
 ## alcim 1
 
@@ -10,7 +10,7 @@
 
 ~~athuz~~
 
-A levlecimet a `mailAdress` valtozo tarolja
+A levelecimet a `mailAdress` valtozo tarolja
 
 igy kell 10-ig szamolni
 
